@@ -1,4 +1,4 @@
-# TP3 – Gestion des Personnes (Frontend REST JAX-RS)
+ TP3 – Gestion des Personnes 
 
 Description du projet  
 Ce projet consiste à développer une application web frontend permettant de consommer une API REST développée en Java JEE avec JAX-RS et déployée sur Apache Tomcat.  
@@ -10,8 +10,7 @@ Objectifs du projet
 - Mettre en œuvre une architecture Client / Serveur  
 - Développer une interface web dynamique  
 - Consommer les services REST sans accès direct à la base de données  
-- Mettre le projet en ligne sur GitHub  
-- Présenter le travail sous forme d’une vidéo de démonstration  
+  
 
 Architecture globale  
 Navigateur Web  
@@ -52,8 +51,7 @@ tp3
 ├── .gitignore  
 └── README.md  
 
-URL de l’API REST  
-http://localhost:8080/testrest/
+
 
 Endpoints REST utilisés  
 GET    /affiche                  : afficher la liste des personnes  
