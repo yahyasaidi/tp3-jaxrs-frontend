@@ -53,7 +53,7 @@ tp3
 └── README.md  
 
 URL de l’API REST  
-http://localhost:8080/testrest/rest/users  
+http://localhost:8080/testrest/
 
 Endpoints REST utilisés  
 GET    /affiche                  : afficher la liste des personnes  
